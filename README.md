@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 # Hello, I'm Aldeon aka Mehran 👋
 
-## About Me
-
 I'm an experienced Frontend Developer by day and a hobbyist Game Developer by night (or at least I'm trying to be one 😊 )
 
 ## Interests
